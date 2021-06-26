@@ -8,4 +8,4 @@
 
 - [me](https://github.com/awend0)  
 
-![Awesome GIF](https://github.com/awend0/GY801-Visualizer/blob/master/gif/show.gif)  
+![Awesome GIF](https://github.com/awend0/GY801-Visualizer/blob/main/gif/show.gif)  
